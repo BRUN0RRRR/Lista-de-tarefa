@@ -1,0 +1,17 @@
+C:\Users\bruno\source\repos\Lista de tarefa\Lista de tarefa\bin\Debug\net8.0-windows\Lista de tarefa.exe
+C:\Users\bruno\source\repos\Lista de tarefa\Lista de tarefa\bin\Debug\net8.0-windows\Lista de tarefa.deps.json
+C:\Users\bruno\source\repos\Lista de tarefa\Lista de tarefa\bin\Debug\net8.0-windows\Lista de tarefa.runtimeconfig.json
+C:\Users\bruno\source\repos\Lista de tarefa\Lista de tarefa\bin\Debug\net8.0-windows\Lista de tarefa.dll
+C:\Users\bruno\source\repos\Lista de tarefa\Lista de tarefa\bin\Debug\net8.0-windows\Lista de tarefa.pdb
+C:\Users\bruno\source\repos\Lista de tarefa\Lista de tarefa\obj\Debug\net8.0-windows\Lista_de_tarefa.Form1.resources
+C:\Users\bruno\source\repos\Lista de tarefa\Lista de tarefa\obj\Debug\net8.0-windows\Lista de tarefa.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\Lista de tarefa\Lista de tarefa\obj\Debug\net8.0-windows\Lista de tarefa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\source\repos\Lista de tarefa\Lista de tarefa\obj\Debug\net8.0-windows\Lista de tarefa.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\Lista de tarefa\Lista de tarefa\obj\Debug\net8.0-windows\Lista de tarefa.AssemblyInfo.cs
+C:\Users\bruno\source\repos\Lista de tarefa\Lista de tarefa\obj\Debug\net8.0-windows\Lista de tarefa.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\Lista de tarefa\Lista de tarefa\obj\Debug\net8.0-windows\Lista de tarefa.sourcelink.json
+C:\Users\bruno\source\repos\Lista de tarefa\Lista de tarefa\obj\Debug\net8.0-windows\Lista de tarefa.dll
+C:\Users\bruno\source\repos\Lista de tarefa\Lista de tarefa\obj\Debug\net8.0-windows\refint\Lista de tarefa.dll
+C:\Users\bruno\source\repos\Lista de tarefa\Lista de tarefa\obj\Debug\net8.0-windows\Lista de tarefa.pdb
+C:\Users\bruno\source\repos\Lista de tarefa\Lista de tarefa\obj\Debug\net8.0-windows\Lista de tarefa.genruntimeconfig.cache
+C:\Users\bruno\source\repos\Lista de tarefa\Lista de tarefa\obj\Debug\net8.0-windows\ref\Lista de tarefa.dll
